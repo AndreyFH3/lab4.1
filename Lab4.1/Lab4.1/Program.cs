@@ -18,6 +18,10 @@ namespace Lab4._1
             {
                 Console.WriteLine(a - b);
             }
+            void multy(int a, int b)
+            {
+                Console.WriteLine(a * b);
+            }
         }
     }
 }

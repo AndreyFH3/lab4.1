@@ -8,6 +8,8 @@ namespace Lab4._1
         {
             Console.WriteLine("Введите первое число");
             int A = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите второе число");
+            int B = int.Parse(Console.ReadLine());
         }
     }
 }

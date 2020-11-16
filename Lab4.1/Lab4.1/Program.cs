@@ -6,8 +6,8 @@ namespace Lab4._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            
+            Console.WriteLine("Введите первое число");
+            int A = int.Parse(Console.ReadLine());
         }
     }
 }

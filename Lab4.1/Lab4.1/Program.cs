@@ -10,6 +10,10 @@ namespace Lab4._1
             int A = int.Parse(Console.ReadLine());
             Console.WriteLine("Введите второе число");
             int B = int.Parse(Console.ReadLine());
+            void pluss(int a, int b)
+            {
+                Console.WriteLine(a + b);
+            }
         }
     }
 }
